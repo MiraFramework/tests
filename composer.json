@@ -1,0 +1,14 @@
+{
+    "name": "miraframework/tests",
+    "description": "A Service Provider to add Testing to the Mira Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Mancuso",
+            "email": "jmancuso.mil@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
